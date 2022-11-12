@@ -1,4 +1,4 @@
 # Welcome
 # Frist App. Project.
 #ffffff Lotary game 
-`#0d1117`
+The background color should be `#ffffff
